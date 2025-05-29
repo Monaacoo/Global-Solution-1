@@ -1,0 +1,2 @@
+@author: r1g312
+Nesse arquivo: logs_ofuscados\logs_2021\logs_2023\log_2.log
