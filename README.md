@@ -26,20 +26,6 @@ Este projeto foi desenvolvido para a prova de global solution de coding for secu
 
 ---
 
-## 🛠️ Pré-requisitos
-
-- Python 3.6 ou superior
-- Recomendado: ambiente virtual
-
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
-
----
-
-Lembrete: Antes de executar, apague a pasta de decodificados e o arquivo author.txt, eles serão gerados automaticamente depois de executar o código.
-
 ## Estrutura de Pastas
 
 Após a execução, será criada uma pasta chamada decodificados/ com a estrutura original e arquivos descriptografados.
@@ -50,4 +36,17 @@ Se o autor for encontrado, será criado o arquivo author.txt na raiz do projeto,
 
 - O caminho de origem do arquivo onde a assinatura foi encontrada.
 
+---
 
+## 🛠️ Pré-requisitos
+
+- Python 3.6 ou superior
+- Recomendado: ambiente virtual
+- Lembrete: Antes de executar, apague a pasta de decodificados e o arquivo author.txt, eles serão gerados automaticamente depois de executar o código.
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+
+---
